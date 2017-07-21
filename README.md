@@ -1,11 +1,8 @@
 ************************************************************************
-Craigwfox.com - Version 4.0
+Craigwfox.com - Version 4.5
 
-By Craig Fox @ craigwfox.com
-https://github.com/craigwfox/craigwfox-v4.git
+By Craig Fox @ [craigwfox.com](https://craigwfox.com)
 ************************************************************************
 
-Github Repo URL: https://github.com/craigwfox/craigwfox-v4.git
-Site URL: craigwfox.com
-
-These are the files for craigwfox.com Version 4.0.
+- Github Repo URL: [github.com/craigwfox/craigwfox-v4.git](https://github.com/craigwfox/craigwfox-v4.git)
+- Site URL: [craigwfox.com](https://craigwfox.com)
